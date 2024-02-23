@@ -1,0 +1,48 @@
+PROFESSIONAL EXPERIENCE
+Principal Software Engineer (1/2022 - 5/2023) Ace Metrix, Los Angeles, California (remote)
+- Migrated data-intensive API services from a Java Spring, REST, JSON monolith to domain-focused microservices using Golang, gRPC, and protobufs.
+- Optimized NLP services, reducing response times 30% and boosting throughput 40%.
+- Collaborated with engineering leads to design robust, reliable systems.
+- Consolidated systems post-merger, saving 220 hrs/mo and liberating 10 engineers.
+- Enhanced scalability and availability by transitioning on-premise applications to cloud services and adopting containerization.
+- Provided technical instruction to product engineers for seamless gRPC integration.
+
+Lead Software Engineer (7/2018 - 12/2021) Ace Metrix, Los Angeles, California (hybrid)
+- Spearheaded product innovation by iterating visualizations with data science and pre-sales groups, fine-tuning UX design, and guiding the software implementation.
+- Propelled SaaS revenue growth by doubling product and feature launches annually.
+- Improved software quality by identifying and resolving team & codebase issues, resulting in 80% fewer regressions and a 50% shorter QA window.
+- Fostered an engaged, empowered team culture by emphasizing ownership, balancing group and solo work, and discussing learning goals, achieving zero quits in 3.5 years.
+- Resolved legacy disputes between groups by prioritizing maintainability and security.
+- Accelerated security initiatives by implementing SOC 1 / SOC 2 tasks, dependency monitoring, and scanning docker images for vulnerabilities in build pipelines.
+
+Senior Software Engineer (8/2015 - 7/2018) Ace Metrix, Los Angeles, California
+- Developed a performant, scalable data engineering subsystem, augmenting data ingestion capacity 50x and expanding research sample to mobile devices.
+- Progressively refactored schedulers, queues and workers to maximize fault tolerance.
+- Analyzed Data Source and ETL pipeline bottlenecks & architecture using profilers and monitors. Proposed and implemented solutions, reducing expenses by $100k.
+- Restructured distributed system's NoSQL data model for atomic, transactional mutations, increasing resiliency and Data Lake integrity.
+- Rapidly prototyped experimental survey UI controls to validate R&D statistical models.
+- Transformed prototype UI's into maintainable Angular and React applications.
+
+Full-Stack Software Engineer (7/2013 - 7/2015) SAG-AFTRA, Los Angeles, California
+- Developed ad hoc full-stack web applications to support actors, using a variety of tools like MVC, REST APIs, Java, Spring, PHP, Laravel, MySQL, and Angular.
+- Designed normalized database schemas to facilitate flexible software development.
+- Launched an Active Directory microservice, which continues to serve apps in 2024.
+- Selected as the inaugural mentee in the department's Leadership Training program.
+- Maintained SAGAwards.org and SAGAFTRA.org. Provided live, onsite support during union events, such as the SAG Awards.
+- Supported design team to help realize their creative visions.
+
+EDUCATION
+University of Southern California, Los Angeles, California
+Bachelors in Biological Sciences & Italian
+
+TECHNICAL SUMMARY
+My full-stack experience is approximately 60% backend and 40% frontend.
+Backend:
+Languages: Node.js, Go, Python, Java, PHP
+Frameworks: Express.js, Gin, Django, Flask, Spring, Laravel
+Data: PostgreSQL, Redis, MongoDB, MySQL
+Cloud: AWS (S3, SQS, RDS, Lambda), system design
+DevOps: Terraform, Docker, Jenkins, Circle CI
+Frontend:
+Languages: JavaScript, TypeScript, HTMX, SVG, CSS, HTML
+Frameworks: React, Angular, Bootstrap, Storybook, Knockout, microfrontends
