@@ -27,11 +27,11 @@ Purpose: tool to automate the steps in generating a custom resume for each job d
 
 #### Functional Requirements:
 
-1. Get data from OpenAI ChatGPT API
+1. [DONE] Get data from OpenAI ChatGPT API
     * be able to take in 2 inputs: resume text & job description text
     * be able to query OpenAI ChatGPT API with 2 inputs in prompt template
 
-2. Display the API result output
+2. [DONE] Display the API result output
 
 3. Improve UX
     * Store and name resumes
